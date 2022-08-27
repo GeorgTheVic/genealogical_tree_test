@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/descr.scss","components/descr.css"],"names":[],"mappings":"AAAA;EACE,eAAA;ACCF","file":"components/descr.css","sourcesContent":[".descr {\n  font-size: 20px;\n}",".descr {\n  font-size: 20px;\n}"]}
